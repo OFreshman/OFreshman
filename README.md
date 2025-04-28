@@ -47,6 +47,6 @@
 ▸ 神秘注释`// 这里以后优化`
 
 ### 📬 找到我
-[![Email](https://img.shields.io/badge/-📮_邮箱-blue?logo=gmail)](mailto:your-email@example.com)
-[![Blog](https://img.shields.io/badge/-🌐_博客-green?logo=wordpress)](https://your-blog.com)
+[![Email](https://img.shields.io/badge/-📮_邮箱-blue?logo=gmail)](mailto:y415561402@gmail.com)
+[![Blog](https://img.shields.io/badge/-🌐_博客-green?logo=wordpress)](https://blog.csdn.net/qq_39370934)
 [![Bilibili](https://img.shields.io/badge/-📺_B站-ff69b4?logo=bilibili)](https://space.bilibili.com/yourid)
