@@ -9,14 +9,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%9C%E6%AF%8F%E5%A4%A9%E8%A7%A3%E5%86%B3%E4%B8%80%E4%B8%AA+Bug%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%98%9F%E7%90%83%E5%B0%B1%E4%BA%AE%E4%B8%80%E5%88%86%E2%9C%A8%E2%80%9D)](https://git.io/typing-svg)
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?
-  color=blue
-  &label=Visitors
-  &query=value
-  &url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FOFreshman%2Fvisitor
-)
 
-[![GitHub Stars](https://img.shields.io/github/stars/OFreshman?label=Stars&logo=github)](https://github.com/OFreshman)
+[![GitHub Followers](https://img.shields.io/github/followers/OFreshman?label=Followers&logo=github&color=1DA1F2)](https://github.com/OFreshman?tab=followers)
+[![Total Contributions](https://img.shields.io/github/stars/OFreshman?label=Total%20Stars&logo=github&color=yellow)](https://github.com/OFreshman?tab=repositories)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-brightgreen?logo=github)](https://github.com/OFreshman/pulls)
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/OFreshman/OFreshman?label=Monthly%20Commits&logo=github)](https://github.com/OFreshman)
+[![Profile Views](https://komarev.com/ghpvc/?username=OFreshman&label=Profile%20Views&color=orange&logo=github)](https://github.com/OFreshman)
 
 ----
 
@@ -41,5 +39,5 @@
 
 ### 📬 找到我
 [![Email](https://img.shields.io/badge/-📮_邮箱-blue?logo=gmail)](mailto:y415561402@gmail.com)
-[![Blog](https://img.shields.io/badge/-🌐_博客-green?logo=wordpress)](https://blog.csdn.net/qq_39370934)
+[![CSDN Blog](https://img.shields.io/badge/-🌐_博客-green?logo=wordpress)](https://blog.csdn.net/qq_39370934)
 [![Bilibili](https://img.shields.io/badge/-📺_B站-ff69b4?logo=bilibili)](https://www.bilibili.com/)
