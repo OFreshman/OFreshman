@@ -9,7 +9,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%9C%E6%AF%8F%E5%A4%A9%E8%A7%A3%E5%86%B3%E4%B8%80%E4%B8%AA+Bug%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%98%9F%E7%90%83%E5%B0%B1%E4%BA%AE%E4%B8%80%E5%88%86%E2%9C%A8%E2%80%9D)](https://git.io/typing-svg)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=OFreshman.OFreshman&mode=hits)](https://github.com/OFreshman)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?
+  color=blue
+  &label=Visitors
+  &query=value
+  &url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FOFreshman%2Fvisitor
+)
+
 [![GitHub Stars](https://img.shields.io/github/stars/OFreshman?label=Stars&logo=github)](https://github.com/OFreshman)
 
 ----
