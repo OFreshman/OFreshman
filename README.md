@@ -17,7 +17,7 @@
 -->
 
 ### 🏙️ 我的数字城市
-[![3D GitHub City](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)
+[🎲 3D GitHub City](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)
 
 ### 📊 战略数据中心
 <table> <tr> <td width="60%"> <img src="https://github-readme-stats.vercel.app/api?username=OFreshman&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFreshman&layout=compact&theme=vision-friendly-dark" alt="Top Langs" /> </td> </tr> </table>
