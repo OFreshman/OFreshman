@@ -7,12 +7,14 @@
 
 ----
 
+<!--
 ### 🔥 技术火力全开
 ![](https://img.shields.io/badge/Java-战地机甲-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Python-机械毒蛇-3776AB?logo=python)
 ![](https://img.shields.io/badge/MySQL-数据宝库-4479A1?logo=mysql)
 ![](https://img.shields.io/badge/Spring-魔法森林-6DB33F?logo=spring)
 ![](https://img.shields.io/badge/Docker-集装箱船长-2496ED?logo=docker)
+-->
 
 ### 🏙️ 我的数字城市
 [![3D GitHub City](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)
