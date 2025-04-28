@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%9C%E4%BB%A3%E7%A0%81%E5%86%99%E5%BE%97%E5%A5%BD%EF%BC%8CBug%E4%B9%9F%E4%B8%8D%E5%B0%91%E3%80%82%F0%9F%98%85%E2%80%9D)](https://git.io/typing-svg)
+
 <!--
 **OFreshman/OFreshman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
