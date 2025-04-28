@@ -14,15 +14,17 @@
 ![](https://img.shields.io/badge/Spring-魔法森林-6DB33F?logo=spring)
 ![](https://img.shields.io/badge/Docker-集装箱船长-2496ED?logo=docker)
 
-### 🗺️ 3D贡献地形图
-<div align="center"> <img src="https://github-profile-3d-contrib.vercel.app/api/view?username=OFreshman&theme=github_dark&layer=cloud" alt="3D Contribution Map" width="100%" /> </div>
+### 🏙️ 我的数字城市
+[![3D GitHub City](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)](https://honzaap.github.io/GithubCity/?name=OFreshman&year=2025)
 
 ### 📊 战略数据中心
 <table> <tr> <td width="60%"> <img src="https://github-readme-stats.vercel.app/api?username=OFreshman&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFreshman&layout=compact&theme=vision-friendly-dark" alt="Top Langs" /> </td> </tr> </table>
 
-### 🚨 生存状态播报
-$ system_status --developer OFreshman
->>  今日代码量: 1,842行 (Python 62%, Java 38%)
->>  持续编码时长: 5h22m (最高记录: 9h41m)
->>  GitHub活跃度: ▰▰▰▰▱ 82%
->>  最后更新时间: $(date +%Y-%m-%d\ %H:%M)
+### 🤖 今日程序员笑话
+<!-- 随机笑话API -->
+<img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" />
+
+### 📬 找到我
+[![Email](https://img.shields.io/badge/-📮_邮箱-blue?logo=gmail)](mailto:y415561402@gmail.com)
+[![Blog](https://img.shields.io/badge/-🌐_博客-green?logo=wordpress)](https://blog.csdn.net/qq_39370934)
+[![Bilibili](https://img.shields.io/badge/-📺_B站-ff69b4?logo=bilibili)](https://space.bilibili.com/yourid) x
